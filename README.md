@@ -1,10 +1,10 @@
 # Security+ Portfolio
 
 ## About
-This repository contains my CompTIA Security+ certification portfolio artifacts and professional documentation. The contents demonstrate my understanding of core security concepts and best practices in information security.
+This repository contains my CompTIA Security+ certification portfolio artifact documentation. The contents demonstrate my understanding of core security concepts and best practices in information security.
 
 ## Contents
-- **artifacts/**: Professional portfolio artifacts and case studies
+- **artifacts/**:
 - **README.md**: This file
 
 ## Skills & Knowledge Areas
