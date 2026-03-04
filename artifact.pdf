@@ -1,1 +1,47 @@
+ Main artifact  
+professional version of my Security+ portfolio artifact prepared for final grading.
+
+## Title
+Security Risk Assessment for a Small Business Network
+
+## Purpose
+This artifact shows my ability to perform a basic security risk assessment and apply core 
+Security+ concepts (CIA, threats, vulnerabilities, risk, and controls) to a small business 
+environment.
+
+## Scenario
+A small company with 25 employees has:[web:22]  
+- One on-prem file server with customer data  
+- Staff and guest Wi‑Fi  
+- Cloud email  
+- Remote users over VPN  
+
+They have never done a formal risk assessment and have seen suspicious login attempts against 
+employee accounts.
+
+## Key Risks and Controls
+
+1. **Employee Email Accounts**  
+   - Risk: Phishing leading to account compromise  
+   - Main issues: Weak passwords, no MFA, little user training  
+   - Controls: Enforce MFA, strong password policy, security awareness training, and email
+anti-phishing filters.
+
+2. **Office Wi‑Fi Network**  
+   - Risk: Unauthorized access to internal network  
+   - Main issues: Single shared key, no segmentation, default settings  
+   - Controls: Separate staff/guest Wi‑Fi, use strong WPA2/WPA3, change defaults, log and
+monitor access.
+
+3. **File Server with Customer Data**  
+   - Risk: Ransomware or unauthorized access  
+   - Main issues: Rare backups, too-broad permissions, no access reviews  
+   - Controls: Regular tested backups, least privilege, file auditing, up-to-date OS and endpoint 
+protection, network segmentation.
+
+## Security+ Concepts Used
+This artifact demonstrates use of the CIA triad, the difference between threats, vulnerabilities, 
+and risk, and selection of administrative, technical, and physical controls as part of a simple 
+risk assessment process.
+
 
